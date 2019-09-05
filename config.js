@@ -1,6 +1,6 @@
 module.exports = {
   discord: {
-    token: 'NjEyNzU0NjI2Nzg1MDUwNjQ3.XXCbkw.R0NhLQZFEGmTc8LyqDOWkYnUDiA',
+    token: 'NjEyNzU0NjI2Nzg1MDUwNjQ3.XXCkEQ.i1rNIMZw-KDB8nqgNk0AHQjvo28',
     targetChannelName: 'あへぇ'
   },
   network: {
